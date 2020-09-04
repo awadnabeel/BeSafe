@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "811754910411",
+    "firebase_url": "https://halls-reservation-12345.firebaseio.com",
+    "project_id": "halls-reservation-12345",
+    "storage_bucket": "halls-reservation-12345.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811754910411:android:a01f559df2a03e14c7614e",
+        "android_client_info": {
+          "package_name": "com.example.wifi_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811754910411-ethh5sp7n4305iav098c8p6rusnm6eoi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wifi_test",
+            "certificate_hash": "8237462897460958723468072683475620387433"
+          }
+        },
+        {
+          "client_id": "811754910411-cdilunfr558rc7mha7bjkiqps08q947t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD83zAb0Rn_kxOAEIlIv2SW-UPm3-SklTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811754910411-cdilunfr558rc7mha7bjkiqps08q947t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
